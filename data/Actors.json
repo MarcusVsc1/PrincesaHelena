@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"helena","characterIndex":0,"characterName":"helenainicio","classId":2,"equips":[0,1,0,1,0],"faceIndex":0,"faceName":"helenainicio","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helena","nickname":"","note":" <reach target: normal>","profile":""},
+{"id":2,"battlerName":"lyra","characterIndex":0,"characterName":"lyra 2","classId":1,"equips":[15,0,0,1,0],"faceIndex":0,"faceName":"lyra 2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lyra","nickname":"","note":" <reach target: normal>","profile":""},
+{"id":3,"battlerName":"peteltear","characterIndex":0,"characterName":"peteltear","classId":3,"equips":[2,0,2,1,6],"faceIndex":0,"faceName":"peteltear","traits":[],"initialLevel":8,"maxLevel":99,"name":"Petel","nickname":"","note":" <reach target: normal>","profile":""},
+{"id":4,"battlerName":"sakuranormal","characterIndex":0,"characterName":"sakuranormal","classId":4,"equips":[3,0,0,1,0],"faceIndex":0,"faceName":"sakuranormal","traits":[],"initialLevel":14,"maxLevel":99,"name":"Sakura","nickname":"","note":" <reach target: normal>","profile":""},
+{"id":5,"battlerName":"cureselene","characterIndex":1,"characterName":"","classId":12,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuni","traits":[],"initialLevel":25,"maxLevel":99,"name":"Madoka","nickname":"Cure Cosmo","note":"","profile":""},
+{"id":6,"battlerName":"curesoleil","characterIndex":1,"characterName":"precure1","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuni","traits":[],"initialLevel":25,"maxLevel":99,"name":"Elena","nickname":"Cure Cosmo","note":"","profile":""},
+{"id":7,"battlerName":"curemilky","characterIndex":1,"characterName":"precure1","classId":13,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuni","traits":[],"initialLevel":25,"maxLevel":99,"name":"Lala","nickname":"Cure Cosmo","note":"","profile":""},
+{"id":8,"battlerName":"yuni","characterIndex":1,"characterName":"precure1","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuni","traits":[],"initialLevel":25,"maxLevel":99,"name":"Yuni","nickname":"Cure Cosmo","note":"","profile":""}
+]
