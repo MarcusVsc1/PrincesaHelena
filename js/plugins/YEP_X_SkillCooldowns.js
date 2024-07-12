@@ -853,6 +853,8 @@ Game_BattlerBase.prototype.initMembers = function() {
 };
 
 Game_BattlerBase.prototype.clearCooldowns = function() {
+	console.log("Primeiro teste")
+	console.log(this._cooldownTurns)
     this._cooldownTurns = {};
 };
 
@@ -1047,6 +1049,7 @@ Game_BattlerBase.prototype.payCooldownCost = function(skill) {
 
 Game_BattlerBase.prototype.endBattleCooldowns = function() {
     this.resetCooldownTickRates();
+    console.log(this._cooldownTurns)
     for (var skillId in this._cooldownTurns) {
       this._cooldownTurns[skillId] += $dataSkills[skillId].afterBattleCooldown;
     }
